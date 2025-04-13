@@ -17,6 +17,9 @@
 - 🧠 **Backend API** returns JSON for easy integrations
 
 ---
+![image](https://github.com/user-attachments/assets/211f9bc7-12d0-42c3-a52f-fe284fa29235)
+
+
 
 ## 🚀 Getting Started
 
